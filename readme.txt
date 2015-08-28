@@ -1,0 +1,1 @@
+1. copy your new created module from "new\app\code" to your project "app\code" folder.
